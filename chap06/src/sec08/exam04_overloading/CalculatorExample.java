@@ -1,7 +1,5 @@
 package sec08.exam04_overloading;
 
-import sec08.exam03_method_call.Calculator;
-
 public class CalculatorExample {
     public static void main(String[] args) {
         Calculator myCalcu = new Calculator();
